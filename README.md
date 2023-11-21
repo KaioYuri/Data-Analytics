@@ -1,2 +1,2 @@
 # Data-Analytics
-Testes para análises de dados
+Repositório destinado a testes de extração de bases externas utilizando Pyspark.
